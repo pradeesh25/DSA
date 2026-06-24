@@ -75,3 +75,9 @@ int main()
 
     return 0;
 }
+
+
+
+output:
+Enter postfix expression: 234*+
+Result = 14
