@@ -108,3 +108,11 @@ int main() {
     
     return 0;
 }
+
+
+
+
+output:
+Enter an infix expression: a+b*(c^d-e)^(f+g*h)-i
+Postfix expression: abcd^e-fgh*+^*+i-
+
