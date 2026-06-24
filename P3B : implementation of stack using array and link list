@@ -102,4 +102,68 @@ int main() {
 }
 
 
+output:
+--- Stack Menu ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 1
+Enter value: 50
+50 pushed to stack
+
+--- Stack Menu ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 1
+Enter value: 100
+100 pushed to stack
+
+--- Stack Menu ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 4
+Stack elements: 100 -> 50 -> NULL
+
+--- Stack Menu ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 3
+Top element is: 100
+
+--- Stack Menu ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 2
+100 popped from stack
+
+--- Stack Menu ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 4
+Stack elements: 50 -> NULL
+
+--- Stack Menu ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 5
 
